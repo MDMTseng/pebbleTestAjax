@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "chiapintseng@gmail.com",
+    "longName": "N2",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "N2",
+    "uuid": "2153ae34-7ba5-4c48-9fef-6ad4f076bf2c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
